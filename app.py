@@ -15,7 +15,6 @@ for i in range(50):
     print("3 - RUIM")
 
     opiniao = int(input("Digite a opção: "))
-
     if opiniao == 1:
         excelente += 1
     elif opiniao == 2:
